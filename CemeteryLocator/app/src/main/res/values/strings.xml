@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Cemetery Locator</string>
+    <string name="hint_search">Search by name or grave number…</string>
+    <string name="text_no_records">No records found</string>
+    <string name="desc_photo">Photo of deceased</string>
+    <string name="desc_gravepic">Photo of grave</string>
+    <string name="label_gender">Gender</string>
+    <string name="label_age">Age</string>
+    <string name="label_born">Born</string>
+    <string name="label_died">Died</string>
+    <string name="label_location">Location</string>
+    <string name="title_settings">Settings</string>
+    <string name="label_server_url">Backend server URL</string>
+    <string name="hint_server_url">http://your-server.example.com/</string>
+    <string name="action_save">Save</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_map">Map</string>
+    <string name="title_map">Cemetery Map</string>
+    <string name="desc_my_location">Center on my location</string>
+    <string name="action_view_on_map">View on Map</string>
+    <string name="action_get_directions">Get Directions</string>
+    <string name="action_directions">Directions</string>
+
+    <!-- Auth -->
+    <string name="title_login">Sign In</string>
+    <string name="title_signup">Create Account</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="hint_full_name">Full name</string>
+    <string name="action_login">Sign In</string>
+    <string name="action_logout">Sign Out</string>
+    <string name="action_create_account">Create Account</string>
+    <string name="prompt_go_to_signup">Don\'t have an account? Sign up</string>
+    <string name="prompt_go_to_login">Already have an account? Sign in</string>
+
+    <!-- Submit grave -->
+    <string name="action_submit_grave">Submit a Grave Location</string>
+    <string name="title_submit_grave">Submit a Grave Location</string>
+    <string name="hint_tap_map_instructions">Tap the map where the grave is located. Drag the pin to fine-tune it.</string>
+    <string name="hint_tap_map">No location picked yet — tap the map above.</string>
+    <string name="format_coords">Selected: %1$.6f, %2$.6f</string>
+    <string name="hint_deceased_name">Name of deceased</string>
+    <string name="hint_section_location">Section / row (optional)</string>
+    <string name="hint_notes">Notes for the reviewer (optional)</string>
+    <string name="action_submit_for_review">Submit for Review</string>
+
+    <!-- My submissions -->
+    <string name="action_my_submissions">My Submissions</string>
+    <string name="title_my_submissions">My Submissions</string>
+    <string name="text_no_submissions">You haven\'t submitted any grave locations yet</string>
+</resources>
